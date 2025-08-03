@@ -94,7 +94,8 @@ A working **JupyterLite notebook** was created to simulate:
 
 ## See the Complete Report
 
-[**BPM_THREETELECOM_CE_Project_Report.pdf**](https://github.com/ale-glitch-web/Project-in-Business-Process-Management---AI-in-Managing-Stock-Processes/blob/main/BPM_THREETELECOM_CE_Project_Report.pdf)
+[**BPM_THREETELECOM_CE_Project_Report.pdf**](https://github.com/ale-glitch-web/BPM_Three_Telecom_Case_Study/blob/main/BPM_THREETELECOM_CE_Project_Report.pdf)
+
 
 
 
